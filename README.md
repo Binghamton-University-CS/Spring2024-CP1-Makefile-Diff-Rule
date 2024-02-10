@@ -9,7 +9,6 @@ For CP1, it is **recommended** to include the files (`cp1_songmenu_input.txt`, `
 #### 2. Add the `diff` rule from the makefile to your own makefile.
 
 #### 3. Execute `make diff` to compare the output of `cp1_songmenu_sample` and your executable `cp1_songmenu` using the same input `cp1_songmenu_input.txt`. If the outputs match, only the following will be displayed:
-      ```
       chmod +x cp1_songmenu_sample;\
       make clean > /dev/null;\
       make > /dev/null;\
@@ -17,5 +16,4 @@ For CP1, it is **recommended** to include the files (`cp1_songmenu_input.txt`, `
       ./cp1_songmenu < cp1_songmenu_input.txt > cp1_songmenu_out.txt;\
       diff cp1_songmenu_sample_out.txt cp1_songmenu_out.txt;\
       exit 0;
-      ```
    
