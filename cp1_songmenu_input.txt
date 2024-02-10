@@ -1,0 +1,13 @@
+song 1 TaylorSwift 214 Willow
+song 2 TheBeatles 180 PennyLane
+song 3 Unknown 1 Beep
+Song 3 Unknown 1 Beep
+remove 1
+playlist 1 SongCollection
+add 1 1
+seesong 1
+seeplaylist 1
+hello
+drop 1 1
+quit
+try_quit_again
