@@ -1,8 +1,7 @@
 # Spring2024-CP1-Makefile-Diff-Rule
 
-For CP1 submission, it is recommended to include these files and changes (cp1_songmenu_input.txt, cp1_songmenu_sample, and the 'diff rule' in makefile) into your submission.
-
-**However, it is optional.**
+For CP1, it is **recommended** to include the files (`cp1_songmenu_input.txt`, `cp1_songmenu_sample`) and modifications (`diff rule` in makefile) into your submission.
+**This is Optional.**
 
 #### 1. Place `cp1_songmenu_input.txt` and `cp1_songmenu_sample` in your own cp1 directory. 
 - Note that `cp1_songmenu_sample` is the updated executable, available on Brightspace as of Saturday 1pm.
